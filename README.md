@@ -2,7 +2,7 @@
 
 A sleek and responsive web application that provides real-time weather information for any city worldwide. Built using HTML5, CSS3, JavaScript, and a live Weather API.
 
-🔗 **[Live Demo](https://Vismayas05.github.io/weather-dashboard/)**
+🔗 **[Live Demo](https://vismayas05.github.io/Weather-dashboard/)**
 
 ---
 
@@ -26,4 +26,4 @@ A sleek and responsive web application that provides real-time weather informati
 
 1. Clone this repository or download the ZIP file:
 ```bash
-   git clone [https://github.com/Vismayas05/weather-dashboard.git](https://github.com/Vismayas05/weather-dashboard.git)
+   git clone [https://github.com/vismayas05/weather-dashboard.git](https://github.com/vismayas05/weather-dashboard.git)
