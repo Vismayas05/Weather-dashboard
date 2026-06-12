@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modern Weather Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="search-box">
+            <input type="text" id="city-input" placeholder="Enter city name...">
+            <button id="search-btn">Search</button>
+        </div>
+
+        <div class="weather-card" id="weather-card">
+            <h2 id="location">---</h2>
+            <p id="description">Search for a city to see the weather</p>
+            <div class="temp-container">
+                <span id="temperature">--</span><span class="unit">°C</span>
+            </div>
+            <div class="details">
+                <div class="col">
+                    <p>Humidity</p>
+                    <p id="humidity" class="bold">--%</p>
+                </div>
+                <div class="col">
+                    <p>Wind Speed</p>
+                    <p id="wind" class="bold">-- km/h</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
