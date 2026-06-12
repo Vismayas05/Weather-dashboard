@@ -2,7 +2,7 @@
 
 A sleek and responsive web application that provides real-time weather information for any city worldwide. Built using HTML5, CSS3, JavaScript, and a live Weather API.
 
-🔗 **[Live Demo](https://Vismayas05.github.io/weather-dashboard/)**
+🔗 **[Live Demo](https://vismayas05.github.io/weather-dashboard/)**
 
 ---
 
